@@ -1,7 +1,7 @@
 今天又是元气满满的一天 ૮ ・ﻌ・ა 
 
 
-📅今天是：{{date.DATA}} 
+📅今天是：{{date.DATA}} ，{{week_list.DATA}}
 
 🌍所在地区：{{region.DATA}} 
 
@@ -12,6 +12,8 @@
 🌀今日风向：{{wind_dir.DATA}} 
 
 ❤️我们已经在一起 {{love_day.DATA}}天 
+
+日期差：{{love_days.DATA}}
 
 {{birthday1.DATA}} 
 
